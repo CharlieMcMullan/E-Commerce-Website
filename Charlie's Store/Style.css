@@ -1,0 +1,21 @@
+		.navbar-custom {
+		 background-color: black;
+		 height: 5em;
+		}
+		main{
+		margin-inline:2em;
+		}
+		.about{
+			width:60%;
+		}
+		 body{     
+		background-color:#cccccc;	
+		} 
+		img{
+			align:left;
+			height:2.2em;
+		}
+		.disclaimer{
+			color:#cc0000;
+			font-weight:bold;
+		}
